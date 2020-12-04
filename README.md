@@ -1,3 +1,1 @@
-# fcvirus
-#A Virus for destroying a phone if victim download app his phone will be factory reset
-[telegram] @LEGENDMODS_owner
+[![HitCount](http://hits.dwyl.com/jarvisbotsavage/fcvirus.svg)]
