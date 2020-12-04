@@ -24,3 +24,6 @@ $ cd infect
 $ ls
 
 $ bash infect.sh
+
+COPY CAT STAY AWAY AND 🤣 HAPPY ALWAYS
+MADE WITH LOVE IN 🇮🇳
